@@ -1,0 +1,8 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+Flask-SocketIO==5.3.3
+pydantic==1.10.7
+pymongo==4.5.0
+python-socketio==5.7.2
+eventlet==0.33.0
+dnspython==2.2.1  # Pin to a compatible version
